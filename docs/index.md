@@ -2,4 +2,4 @@
 
 Webmap project for ESM 267 - Fall 2020, by Indigo Bannister. 
 
-<iframe src="demomap/index.html"></iframe>
+<iframe src="demomap/index.html" width=1024 height=768></iframe>
